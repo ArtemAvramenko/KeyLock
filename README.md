@@ -19,9 +19,10 @@ press keys, or preventing accidental key presses by pets.
 
 ## Usage
 
-1. Download the [executable file](./KeyLock.exe)
+1. Download the exe file from the [Releases](./releases/latest) page.
 2. Double-click the executable file to launch the tool.
-4. To unlock the keyboard, close the app window.
+> **Note:** If Microsoft Defender SmartScreen does not recognize the application, allow it to run by clicking on "More Info" and selecting "Run Anyway."
+3. To unlock the keyboard, close the app window.
 
 ## License
 
